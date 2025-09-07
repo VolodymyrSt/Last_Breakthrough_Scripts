@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04e74da506484dd4095b222082acb1f5, type: 3}
+  m_Name: RobotConfigHolder
+  m_EditorClassIdentifier: 
+  RobotConfigs:
+  - Id: NPC/Robots/RobotMiner
+    RobotData: {fileID: 11400000, guid: ab7933f7b2e9ee546aa70de74306a53b, type: 2}
+  - Id: NPC/Robots/RobotTransporter
+    RobotData: {fileID: 11400000, guid: 4f192915f0a12a042a8e57145b4bdc54, type: 2}
+  - Id: NPC/Robots/RobotDefender
+    RobotData: {fileID: 11400000, guid: 97de49ab0f1e2a54eaf54f759683580a, type: 2}

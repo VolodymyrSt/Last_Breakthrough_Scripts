@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b797fbcb5aee0aa4f8ee3fa91cc3e129, type: 3}
+  m_Name: Plastic
+  m_EditorClassIdentifier: 
+  <Id>k__BackingField: Plastic
+  <Name>k__BackingField: Plastic
+  <Description>k__BackingField: A versatile synthetic material. Can be turned into
+    plastic sheets for various uses.
+  <Sprite>k__BackingField: {fileID: 21300000, guid: 18eba70ef7f08e346918e8a0fcb62d5d, type: 3}
+  <CraftDetail>k__BackingField: {fileID: 11400000, guid: 7114f48f2934b7b4ca6efdbb0470dbaa, type: 2}
+  <MaxQuantity>k__BackingField: 10

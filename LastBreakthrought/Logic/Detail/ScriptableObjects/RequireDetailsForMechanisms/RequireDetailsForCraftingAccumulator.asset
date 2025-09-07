@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36f7e20b0741ba64fba52cbe1784ac48, type: 3}
+  m_Name: RequireDetailsForCraftingAccumulator
+  m_EditorClassIdentifier: 
+  NeededDetails:
+  - Data: {fileID: 11400000, guid: 5c8beeda17805a54ebcd99bdad413365, type: 2}
+    Quantity: 4
+  - Data: {fileID: 11400000, guid: 7114f48f2934b7b4ca6efdbb0470dbaa, type: 2}
+    Quantity: 2
+  - Data: {fileID: 11400000, guid: fe784e3d1153e07438356b94076edf79, type: 2}
+    Quantity: 1
+  - Data: {fileID: 11400000, guid: 48ab10e48bc542849a76a10511b82d64, type: 2}
+    Quantity: 4

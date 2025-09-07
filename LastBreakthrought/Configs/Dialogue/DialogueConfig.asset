@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 955cf5a384550464292e453d4cc6db6f, type: 3}
+  m_Name: DialogueConfig
+  m_EditorClassIdentifier: 
+  <DialogueLines>k__BackingField:
+  - "Our airship is destroyed! Scavenge the planet for wreckage\u2014we need parts
+    to rebuild. But hurry\u2026 in 5 days, the sky will explode, and we\u2019ll be
+    wiped out!"
+  - "Send your robots to collect materials from crashed ships. Metal, circuits, fuel\u2014everything
+    helps. The more we gather, the faster we can escape!"
+  - Take materials to the Recycler to break them down. Then, use the Crafter to turn
+    them into tools, robot upgrades, or ship parts. Recycle wisely!
+  - "Build more robots! The more workers you have, the faster you can mine, craft,
+    and defend. Protect them\u2014losing bots means losing time!"
+  - "Watch out\u2014hostile creatures lurk in the ruins! Your Combat Bot will fight
+    them off, but don\u2019t take unnecessary risks. Survival comes first!"
+  - Focus on fixing the airship! Collect enough mechanisms to repair the engine,
+    hull, and navigation systems. Every part brings us closer to escape!
+  - "Time is running out! The sky grows unstable. Work fast, prioritize wisely, and
+    get us off this planet before it\u2019s too late!"
+  <LineWaitTime>k__BackingField: 0.05

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3b17011c260f5b4e9d15827987c4bf3, type: 3}
+  m_Name: Tank
+  m_EditorClassIdentifier: 
+  <Id>k__BackingField: Tank
+  <Name>k__BackingField: Tank
+  <Description>k__BackingField: Reinforced fuel tank designed to store large amounts
+    of fuel under pressure. Tough, reliable, and ready for any mission.
+  <Sprite>k__BackingField: {fileID: 21300000, guid: 8845b7cfb4fe9624f8493d67a89bb1be, type: 3}
+  <RequireDetails>k__BackingField: {fileID: 11400000, guid: 19841e34ad8dc9b4cb48cc97559884d5, type: 2}

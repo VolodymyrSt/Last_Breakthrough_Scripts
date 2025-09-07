@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b797fbcb5aee0aa4f8ee3fa91cc3e129, type: 3}
+  m_Name: Wire
+  m_EditorClassIdentifier: 
+  <Id>k__BackingField: Wire
+  <Name>k__BackingField: Wire
+  <Description>k__BackingField: Thin strands of metal. Can be refined into copper
+    wire for electrical crafting.
+  <Sprite>k__BackingField: {fileID: 21300000, guid: e639bbe95a59a2f4497ea9d9f0a90b06, type: 3}
+  <CraftDetail>k__BackingField: {fileID: 11400000, guid: 5c8beeda17805a54ebcd99bdad413365, type: 2}
+  <MaxQuantity>k__BackingField: 9

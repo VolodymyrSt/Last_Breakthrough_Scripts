@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28a8dff474b3bfc4a8dfc53bfec76639, type: 3}
+  m_Name: RequireMechanismHolder
+  m_EditorClassIdentifier: 
+  CreateRobotMiner: {fileID: 11400000, guid: 3e797a185e9e23641a8786238e6e1ed0, type: 2}
+  CreateRobotTransporter: {fileID: 11400000, guid: 900b9f569c2022245b832aa8767a100a, type: 2}
+  CreateRobotDefender: {fileID: 11400000, guid: 8c56940d7d028404eab5c3d690bb0eaa, type: 2}
+  RepairRocket: {fileID: 11400000, guid: f75ad37069aedcf46a79c03e36066182, type: 2}
+  RepairRobotMiner: {fileID: 11400000, guid: ffe63c99de421f342989141ca320c0b0, type: 2}
+  RepairRobotTransporter: {fileID: 11400000, guid: 8b758c901d803ef45a9562a789051f0b, type: 2}
+  RepairRobotDefender: {fileID: 11400000, guid: 816bfb5865f7ddf4db1fb0f433703c44, type: 2}
